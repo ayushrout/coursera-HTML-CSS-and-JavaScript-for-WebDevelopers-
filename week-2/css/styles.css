@@ -55,8 +55,7 @@ section {
 
 
 #chicken {
-	border: 1px solid black;
-	text-align: center;
+	border-left: 1px solid black; border-bottom: 1px solid black;	text-align: center;
 	width: 30%;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
@@ -71,8 +70,7 @@ section {
 
 
 #beef {
-	border: 1px solid black;
-	text-align: center;
+	border-left: 1px solid black; border-bottom: 1px solid black;	text-align: center;
 	width: 30%;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
@@ -87,8 +85,7 @@ section {
 
 
 #sushi {
-	border: 1px solid black;
-	text-align: center;
+	border-left: 1px solid black; border-bottom: 1px solid black;	text-align: center;
 	width: 30%;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
