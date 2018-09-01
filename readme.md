@@ -1,1 +1,1 @@
-Files for Coursera HTML, CSS and JavaScript
+Solution for Coursera HTML, CSS and JavaScript for developers!
